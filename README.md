@@ -29,4 +29,8 @@ Displays category-wise distribution using bar and pie charts.
 4. Profit-wise sales analysis
 Dynamic Visuals
 
-Interactive graphs built with Plotly for better insight and user experience.
+Interactive graphs built with Plotly for better insight and user experience.![newplot](https://github.com/user-attachments/assets/a9a66c45-1879-45bb-9f77-08f25c957717)
+![newplot (1)](https://github.com/user-attachments/assets/07f46481-f489-4456-a2c1-ef65d9721965)
+![newplot (2)](https://github.com/user-attachments/assets/371236e9-dd54-467e-9fcb-efa93c183532)
+![newplot (3)](https://github.com/user-attachments/assets/0e2051b5-cbb1-4005-8113-fe529c0b6566)
+
